@@ -1,1 +1,2 @@
 Notice: The example flashcard deck provided here was gathered from online sources including Google and Wikipedia and may not be entirely factual. Learn with caution.
+Also note that the example deck contains more than enough cards for one game. For your first game, try playing with about half the deck (shuffled), or roughly 3 cards per player.
